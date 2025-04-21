@@ -9,8 +9,6 @@ Morzil aims to be the one stop solution for:
 
 ## Features:
 
-
-
 ## Download Left on Read for Mac
 
 
