@@ -14,9 +14,7 @@ Morzil aims to be the one stop solution for:
 
 ## Mission and Values
 
-**Open-Source**: We open-sourced the entire application to keep users' security and privacy first.
+**Open-Source**:
 
-**Secure**: Just like your private photos and important documents, your text messages are only accessible to you and never seen by us.
-
-**Fun**: The first iteration was a [web application](https://www.reddit.com/r/dataisbeautiful/comments/biou3e/4_years_of_texts_between_me_and_my_long_distance/), but now we have rebuilt Left on Read as a Desktop app, so that everything runs locally.
+**Secure**: 
 
